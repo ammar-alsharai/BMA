@@ -1,5 +1,5 @@
 # BMA
-- BMA is an E-learning mobile application for students to learn Malay language. The application allows the user to learn the language through chapters as well as do different exercises.
+- BMA is an E-learning mobile application for students to learn Malay language. The application allows the user to learn the language through chapters as well as do different exercises. 
 - Languages/Technologies: JAVA, XML, MVVM and Firebase <br><br>
 <i><b>Home</b></i>
 <img src="https://github.com/ammaralsharee/BMA/blob/main/Images/Home_page.jpg" width="200" height="400" />
